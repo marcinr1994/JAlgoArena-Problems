@@ -4,3 +4,4 @@ build/
 ProblemsStore/xd.lck
 ProblemsStoreForTests
 logs
+*.iml
